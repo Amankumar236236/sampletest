@@ -1,2 +1,2 @@
 this is my file 2 of git
-
+adding more to file 2
