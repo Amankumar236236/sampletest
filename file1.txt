@@ -1,1 +1,2 @@
 this is my file 1 of git
+adding to check core editor status
